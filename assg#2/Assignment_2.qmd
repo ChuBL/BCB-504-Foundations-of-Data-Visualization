@@ -25,7 +25,8 @@ I'm going to use the built-in `read.csv` package to import CSV file.
 #| code-summary: "Code"
 #| output: false
 library(tidyverse)
-result <- read.csv(file = 'total_elements_mindat.csv')
+# result <- read.csv(file = 'total_elements_mindat.csv')
+result <- read.csv(file = 'mineral.csv')
 ```
 
 The `glimpse` command in the `Tidyverse` package is a nice way to summarize the data frame:
