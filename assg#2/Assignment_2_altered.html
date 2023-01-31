@@ -259,6 +259,7 @@ Note
 I have no idea why the render result of this <code>.qmd</code> file failed to adapt to the html style.
 </del>
 <p>The problem is that the <code>.qmd</code> file shall not consist of the hashtag # symbol.</p>
+<p>Another issue fixed is that the json file is originally contains 5883 items, which should be converted into 5883 rows of csv items. While the converting results shows there were over 5900 rows. The reason for this problem is that there are some annoying <code>\n</code>s in the attributes, which will end up with new rows in the exported csv file. I fixed this issue by simply removing all the <code>\n</code>s in the json file.</p>
 </div>
 </div>
 </section>
