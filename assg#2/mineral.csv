@@ -214,8 +214,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 482,Bafertisite,-Ba-Fe-Si-Ti-O-F-H-,-Ba-Fe-Si-Ti-O-F-H-,1959,5.0,5.0,0,4.1,9,B,E,55,56,2,6b,1
 483,Baghdadite,-Ca-Si-Zr-O-,-Ca-Si-Zr-O-,,6.0,6.0,0,3.46,9,B,E,17,56,2,4,1
 484,Bahianite,-Al-Sb-O-H-,-Al-Sb-O-H-,1978,9.0,9.0,0,5.1,4,D,C,05,44,3,7,1
-488,Baileychlore,-Al-Fe-Mg-Si-Zn-O-H-,-Si-Zn-O-H-,1988,2.5,3.0,0,"3.18
-",9,E,C,55,71,4,1,6
+488,Baileychlore,-Al-Fe-Mg-Si-Zn-O-H-,-Si-Zn-O-H-,1988,2.5,3.0,0,3.18,9,E,C,55,71,4,1,6
 492,Balangeroite,-Fe-Mg-Mn-Si-O-H-,-Mg-Si-O-H-,1983,0.0,0.0,0,2.98,9,D,H,35,65,3,2,1
 495,Balipholite,-Al-Ba-Li-Mg-Si-O-H-,-Al-Ba-Li-Mg-Si-O-H-,1975,5.0,5.5,0,3.34,9,D,B,05,65,1,5,4
 496,Balkanite,-Ag-Cu-Hg-S-,-Ag-Cu-Hg-S-,1973,3.5,3.5,0,6.32,2,B,D,15,2,16,7,1
@@ -727,8 +726,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 1213,Dadsonite,-Cl-Pb-Sb-S-,-Cl-Pb-Sb-S-,1968,2.5,2.5,0,5.68,2,H,C,30,3,6,8,1
 1214,Dalyite,-Si-Zr-O-K-,-Si-Zr-O-K-,,7.5,7.5,0,2.84,9,E,A,25,72,2,1,1
 1215,Damaraite,-Cl-Pb-O-H-,-Cl-Pb-O-H-,1990,3.0,3.0,0,7.67,3,D,C,75,10,5,10,1
-1217,Danbaite,-Cu-Zn-,-Cu-Zn-,1983,4.0,4.0,0,"7.36
- Calculated",1,A,B,10b,1,1,6,1
+1217,Danbaite,-Cu-Zn-,-Cu-Zn-,1983,4.0,4.0,0,7.36 Calculated,1,A,B,10b,1,1,6,1
 1218,Danburite,-Ca-Si-B-O-,-Ca-Si-B-O-,1839,7.0,7.5,0,3.0,9,F,A,65,56,3,1,1
 1219,Danielsite,-Ag-Cu-Hg-S-,-Cu-Hg-S-,1987,1.5,2.0,0,,2,B,D,15,2,16,7,2
 1222,Daomanite,-As-Cu-Pt-S-,-As-Cu-Pt-S-,1974,3.5,3.5,0,,2,L,A,15,2,5,7,1
@@ -969,8 +967,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 1539,Fersmite,-Ca-Ce-Na-Nb-Ta-Ti-O-F-H-,-Ca-Nb-O-,1946,4.0,4.5,0,,4,D,G,05,8,3,3,1
 1540,Feruvite,-Al-Ca-Fe-Mg-Si-B-O-H-,-Al-Ca-Fe-Mg-Si-B-O-H-,1989,7.0,7.0,0,3.21(calc.) 3.21(meas.),9,C,K,05,61,3,1,4
 1541,Fervanite,-Fe-O-H-V-,-Fe-O-H-V-,1931,0.0,0.0,0,,4,H,G,05,47,3,4,1
-1542,Fetiasite,-As-Fe-Ti-O-,-As-Fe-O-,1986,5.0,5.0,3,"4.6
- Low, due to alteration.",4,J,B,05,45,1,13,1
+1542,Fetiasite,-As-Fe-Ti-O-,-As-Fe-O-,1986,5.0,5.0,3,"4.6 Low, due to alteration.",4,J,B,05,45,1,13,1
 1543,Fettelite,-Ag-As-Hg-S-,-Ag-As-Hg-S-,,3.5,3.5,0,6.30,2,L,A,30,3,2,10,
 1544,Fibroferrite,-Fe-O-S-H-,-Fe-O-S-H-,1833,2.0,2.5,0,,7,D,C,15,31,9,12,1
 1545,Fichtelite,-C-H-,-C-H-,1841,0.0,0.0,0,,10,B,A,05,50,3,4,1
@@ -1397,13 +1394,11 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 2052,Isocubanite,-Cu-Fe-S-,-Cu-Fe-S-,1988,3.5,3.5,0,,2,C,B,55b,2,9,13,3
 2053,Isoferroplatinum,-Fe-Pt-,-Fe-Pt-,1975,5.0,5.0,0,,1,A,G,35,1,2,5,1
 2054,Isokite,-Ca-Mg-O-P-F-,-Ca-Mg-O-P-F-,1952,4.5,5.0,0,,8,B,H,10,41,5,6,2
-2055,Isomertieite,-As-Pd-Sb-,-As-Pd-Sb-,1974,5.5,5.5,0,"10.33
- Calculated",2,A,C,15a,2,16,2,1
+2055,Isomertieite,-As-Pd-Sb-,-As-Pd-Sb-,1974,5.5,5.5,0,10.33 Calculated,2,A,C,15a,2,16,2,1
 2056,Itoite,-Ge-Pb-O-S-H-,-Ge-Pb-O-S-H-,1957,0.0,0.0,0,,7,B,D,50,30,2,6,1
 2060,Izoklakeite,-Ag-Bi-Cu-Fe-Pb-Sb-S-,-Cu-Pb-Sb-S-,1986,3.5,4.0,0,,2,H,B,10b,3,5,12,1
 2061,Jacobsite,-Fe-Mn-O-,-Fe-Mn-O-,1869,5.5,6.5,0,4.76,4,B,B,05,7,2,2,2
-2062,Jadeite,-Al-Fe-Na-Si-O-,-Al-Na-Si-O-,1863,6.0,6.0,0,"3.3
-",9,D,A,25,65,1,3c,1
+2062,Jadeite,-Al-Fe-Na-Si-O-,-Al-Na-Si-O-,1863,6.0,6.0,0,3.3,9,D,A,25,65,1,3c,1
 2063,Jaffeite,-Ca-Si-O-H-,-Ca-Si-O-H-,,0.0,0.0,1,,9,B,E,12,55,3,2,1
 2064,Jagoite,-Cl-Fe-Pb-Si-O-,-Cl-Fe-Pb-Si-O-,1957,3.0,3.0,0,,9,E,G,50,73,2,1,1
 2065,Jagowerite,-Al-Ba-O-P-H-,-Al-Ba-O-P-H-,1973,4.5,4.5,0,,8,B,H,55,41,10,3,1
@@ -1930,8 +1925,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 2651,Merlinoite,-Al-Ba-Ca-Na-Si-O-K-H-,-Al-Ca-Si-O-K-H-,1977,4.5,4.5,0,,9,G,C,15,77,1,3,11
 2652,Merrihueite,-Fe-Mg-Na-Si-O-K-,-Fe-Si-O-K-,1965,5.0,6.0,0,,9,C,M,05,63,2,1a,5
 2654,Pseudomertieite,-As-Pd-Sb-,-Pd-Sb-,1973,5.5,5.5,0,,2,A,C,15b,2,16,1,1
-2655,Mertieite,-As-Pd-Sb-,-As-Pd-Sb-,1973,6.0,6.0,0,"11.2
- Calculated",2,A,C,10b,2,16,3,1
+2655,Mertieite,-As-Pd-Sb-,-As-Pd-Sb-,1973,6.0,6.0,0,11.2 Calculated,2,A,C,10b,2,16,3,1
 2656,Merwinite,-Ca-Mg-Si-O-,-Ca-Mg-Si-O-,1921,6.0,6.0,3,,9,A,D,15,51,4,2,1
 2657,Mesolite,-Al-Ca-Na-Si-O-H-,-Al-Ca-Na-Si-O-H-,1816,5.0,5.0,0,,9,G,A,05,77,1,5,4
 2658,Messelite,-Ca-Fe-O-P-H-,-Ca-Fe-O-P-H-,1889,3.5,3.5,0,,8,C,G,05,40,2,2,2
@@ -2006,8 +2000,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 2730,Mixite,-As-Bi-Cu-O-H-,-As-Bi-Cu-O-H-,1879,3.0,4.0,0,3.79,8,D,L,15,42,5,1,1
 2732,Mäkinenite,-Ni-Se-,-Ni-Se-,,2.5,3.0,0,7.23(calc),2,C,C,20,2,8,16,2
 2733,Molybdomenite,-Pb-Se-O-,-Pb-Se-O-,1882,3.5,3.5,0,,4,J,F,05,34,1,1,1
-2734,Molybdofornacite,-As-Cr-Cu-Mo-Pb-O-P-H-,-As-Cu-Mo-Pb-O-H-,,3.0,4.0,0,"(TL) Tsumeb, Otavi, Namibia
-",7,F,C,10,43,4,3,3
+2734,Molybdofornacite,-As-Cr-Cu-Mo-Pb-O-P-H-,-As-Cu-Mo-Pb-O-H-,,3.0,4.0,0,"(TL) Tsumeb, Otavi, Namibia",7,F,C,10,43,4,3,3
 2735,Molybdophyllite,-Mg-Pb-Si-O-C-H-,-Mg-Pb-Si-O-C-H-,1901,3.0,4.0,0,,9,H,H,25,78,5,7,1
 2737,Moctezumite,-Pb-Te-O-U-,-Pb-Te-O-U-,1961,3.0,3.0,0,5.73,4,J,K,65,34,1,5,1
 2738,Modderite,-As-Co-Fe-,-As-Co-,1923,4.0,4.0,0,,2,C,C,15,0,0,0,0
@@ -2034,8 +2027,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 2765,Monteregianite-(Y),-Ca-Na-Si-O-K-H-Y-,-Na-Si-O-H-Y-,<=19,3.5,3.5,0,,9,E,B,15,72,5,1,2
 2766,Montesommaite,-Al-Na-Si-O-K-H-,-Al-Si-O-K-H-,1990,0.0,0.0,1,,9,G,B,30,77,1,3,12
 2767,Montgomeryite,-Al-Ca-Mg-O-P-H-,-Al-Ca-Mg-O-P-H-,1940,4.0,4.0,0,,8,D,H,25,42,11,8,1
-2768,Monticellite,-Ca-Mg-Si-O-,-Ca-Mg-Si-O-,1831,5.0,5.5,0,"3.0-3.2
- Prismatic crystals, more commonly massive granular.",9,A,C,10,51,3,2,1
+2768,Monticellite,-Ca-Mg-Si-O-,-Ca-Mg-Si-O-,1831,5.0,5.5,0,"3.0-3.2 Prismatic crystals, more commonly massive granular.",9,A,C,10,51,3,2,1
 2769,Montroseite,-Fe-O-H-V-,-O-H-V-,1949,5.5,6.5,0,,4,F,D,10,6,1,1,4
 2770,Montroyalite,-Al-Sr-O-C-F-H-,-Al-Sr-O-C-H-,1985,3.5,3.5,0,,5,D,B,10,16b,5,3,1
 2771,Montroydite,-Hg-O-,-Hg-O-,1903,1.5,2.0,0,,4,A,C,15,4,2,6,1
@@ -2088,8 +2080,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 2823,Nabokoite,-Cl-Cu-Te-O-K-S-,-Cl-Cu-Te-O-K-S-,1985,2.0,2.5,0,4.18,7,B,C,20,30,1,17,1
 2824,Nacaphite,-Ca-Na-O-P-F-,-Ca-Na-O-P-F-,1979,3.0,3.0,0,2.85,8,B,O,05,41,3,6,1
 2825,Nacareniobsite-(Ce),-Ca-Ce-Na-Nb-Si-O-F-,-Ca-Ce-Na-Nb-Si-O-F-,,5.0,5.0,0,3.45,9,B,E,20,56,2,5,2
-2826,Nacrite,-Al-Si-O-H-,-Al-Si-O-H-,1807,2.0,2.5,0,"2.6
-",9,E,D,05,0,0,0,0
+2826,Nacrite,-Al-Si-O-H-,-Al-Si-O-H-,1807,2.0,2.5,0,2.6,9,E,D,05,0,0,0,0
 2827,Nadorite,-Cl-Pb-Sb-O-,-Cl-Pb-Sb-O-,1870,3.5,4.0,0,7.02,3,D,C,30,10,2,5,2
 2828,Nagashimalite,-Ba-Cl-Si-Ti-B-O-H-V-,-Ba-Cl-Si-B-O-V-,1980,6.0,6.0,0,4.08,9,C,E,20,64,3,1,3
 2829,Nagelschmidtite,-Ca-Si-O-P-,-Ca-Si-O-P-,1977,0.0,0.0,0,3.04,9,H,A,60,53,2,2,1
@@ -2151,8 +2142,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 2891,Nickelaustinite,-As-Ca-Ni-O-H-,-As-Ca-Ni-O-H-,1985,4.0,4.0,0,,8,B,H,35,41,5,1,7
 2892,Nickelbischofite,-Cl-Ni-O-H-,-Cl-Ni-O-H-,1979,1.5,1.5,0,,3,B,B,20,9,2,9,2
 2893,Niahite,-Mg-Mn-N-O-P-H-,-Mn-N-O-P-H-,,0.0,0.0,0,,8,C,H,20,40,1,2,2
-2895,Nickel,-Ni-,-Ni-,1967,3.5,3.5,0,"8.90
-",1,A,A,05,1,1,11,5
+2895,Nickel,-Ni-,-Ni-,1967,3.5,3.5,0,8.90,1,A,A,05,1,1,11,5
 2896,Nickelboussingaultite,-Ni-N-O-S-H-,-Ni-N-O-S-H-,,2.5,2.5,0,,7,C,C,60,29,3,7,3
 2897,Nickelskutterudite,-As-Co-Fe-Ni-,-As-Ni-,1845,5.5,6.0,0,,2,E,C,05,2,12,17,2
 2898,Nickelzippeite,-Ni-O-S-H-U-,-Ni-O-S-H-U-,1976,5.0,5.5,0,,7,E,C,05,31,10,4,4
@@ -2267,8 +2257,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 3063,Painite,-Al-Ca-Zr-B-O-,-Al-Ca-Zr-B-O-,1956,8.0,8.0,0,4.01,6,A,B,85,7,5,2,1
 3064,Palarstanide,-As-Pd-Sn-,-Pd-Sn-,1981,5.0,5.0,0,,2,A,C,20b,2,3,3,2
 3065,Palenzonaite,-Ca-Mn-Na-O-V-,-Ca-Mn-Na-O-V-,1986,5.0,5.5,0,,8,A,C,25,38,2,1,3
-3066,Palermoite,-Al-Ca-Li-Na-Sr-O-P-H-,-Al-Li-Sr-O-P-H-,1952,5.5,5.5,0,"3.2
-",8,B,H,25,41,7,1,1
+3066,Palermoite,-Al-Ca-Li-Na-Sr-O-P-H-,-Al-Li-Sr-O-P-H-,1952,5.5,5.5,0,3.2,8,B,H,25,41,7,1,1
 3067,Palladium,-Pd-Pt-,-Pd-,1803,4.5,5.0,0,12.16 Varies with Platinum content.,1,A,F,10,1,2,1,4
 3068,Palladoarsenide,-As-Pd-,-As-Pd-,1974,5.0,5.0,0,,2,A,C,25a,2,4,14,1
 3069,Palladobismutharsenide,-As-Bi-Pd-,-As-Pd-,1976,5.0,5.0,0,,2,A,C,25f,2,4,15,1
@@ -2737,8 +2726,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 3607,Seidozerite,-Mn-Na-Si-Ti-Zr-O-F-,-Mn-Na-Si-Ti-Zr-O-F-,1958,4.0,5.0,0,,9,B,E,25,56,2,6a,1
 3608,Seinäjokite,-As-Fe-Ni-Sb-,-Fe-Sb-,,5.0,5.0,0,,2,E,B,15b,2,12,2,10
 3609,Sekaninaite,-Al-Fe-Mg-Si-O-,-Al-Fe-Si-O-,1968,7.0,7.5,0,,9,C,J,10,61,2,1,2
-3611,Selenium,-Se-,-Se-,1934,2.0,2.0,0,"4.80
-",1,C,C,10,1,3,4,1
+3611,Selenium,-Se-,-Se-,1934,2.0,2.0,0,4.80,1,C,C,10,1,3,4,1
 3612,Selenostephanite,-Ag-Sb-Se-,-Ag-Sb-Se-,1985,2.5,3.0,0,,2,G,B,10,3,2,4,2
 3613,Seligmannite,-As-Cu-Pb-S-,-As-Cu-Pb-S-,1901,3.0,3.0,3,,2,G,A,50,3,4,3,1
 3614,Sellaite,-Mg-F-,-Mg-F-,1868,5.0,5.5,0,,3,A,B,15,9,2,2,1
@@ -2872,8 +2860,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 3762,Stenonite,-Al-Ba-Na-Sr-O-C-F-,-Al-Sr-O-C-F-,1962,3.5,3.5,0,,3,C,G,05,12,1,1,1
 3763,Stepanovite,-Fe-Mg-Na-O-C-H-,-Fe-Mg-Na-O-C-H-,1953,2.0,2.0,0,,10,A,B,20,50,1,7,1
 3764,Stephanite,-Ag-Sb-S-,-Ag-Sb-S-,1845,2.0,2.5,0,6.2 - 6.3,2,G,B,10,3,2,4,1
-3765,Stercorite,-Na-N-O-P-H-,-Na-N-O-P-H-,1850,2.0,2.0,0,"1.5
-",8,C,J,05,39,3,1,1
+3765,Stercorite,-Na-N-O-P-H-,-Na-N-O-P-H-,1850,2.0,2.0,0,1.5,8,C,J,05,39,3,1,1
 3766,Sterlinghillite,-As-Mn-O-H-,-As-Mn-O-H-,1980,3.0,3.0,0,,8,C,D,25,40,3,5,3
 3767,Sternbergite,-Ag-Fe-S-,-Ag-Fe-S-,1827,1.0,1.5,0,,2,C,B,65,2,9,12,1
 3768,Sterryite,-Ag-As-Cu-Pb-Sb-S-,-Ag-As-Cu-Pb-Sb-S-,1966,3.5,3.5,3,,2,L,B,30,3,5,3,1
@@ -3012,8 +2999,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 3916,Tertschite,-Ca-B-O-H-,-Ca-B-O-H-,1952,0.0,0.0,0,,6,E,B,20,26,7,5,1
 3917,Teruggite,-As-Ca-Mg-B-O-H-,-As-Ca-Mg-B-O-H-,1968,2.5,2.5,0,,6,F,A,25,27,1,6,1
 3918,Teschemacherite,-N-O-C-H-,-N-O-C-H-,1868,1.5,1.5,0,,5,A,A,25,13,1,3,1
-3920,Tetra-auricupride,-Au-Cu-,-Au-Cu-,1982,4.5,4.5,0,"14.67
- Calculated",1,A,A,10b,1,1,2,2
+3920,Tetra-auricupride,-Au-Cu-,-Au-Cu-,1982,4.5,4.5,0,14.67 Calculated,1,A,A,10b,1,1,2,2
 3921,Tetradymite,-Bi-Te-S-,-Bi-Te-S-,1831,1.5,2.0,0,,2,D,C,05,2,11,7,1
 3922,Tetraferriphlogopite,-Fe-Mg-Si-O-K-F-H-,-Fe-Mg-Si-O-K-H-,,0.0,0.0,0,,9,E,C,20,0,0,0,0
 40156,Fluorotetraferriphlogopite,-Fe-Mg-Si-O-K-F-,-Fe-Mg-Si-O-K-F-,,3.0,4.0,0,,9,E,C,20,,,,
@@ -3167,8 +3153,7 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 4096,Upalite,-Al-O-P-H-U-,-Al-O-P-H-U-,1978,3.0,3.0,0,3.5,8,E,C,05,42,7,12,1
 4097,Uralborite,-Ca-B-O-H-,-Ca-B-O-H-,1961,4.0,4.5,0,2.60,6,D,A,35,25,3,4,1
 4099,Uralolite,-Be-Ca-O-P-H-,-Be-Ca-O-P-H-,1964,2.5,2.5,0,2.1,8,D,A,15,42,7,6,1
-4100,Uramphite,-N-O-P-H-U-,-N-O-P-H-U-,1957,2.0,3.0,0,"3.70
-",8,E,B,15,40,2a,7,1
+4100,Uramphite,-N-O-P-H-U-,-N-O-P-H-U-,1957,2.0,3.0,0,3.70,8,E,B,15,40,2a,7,1
 4101,Urancalcarite,-Ca-O-C-H-U-,-Ca-O-C-H-U-,1983,2.0,3.0,0,4.03,5,E,A,10,16b,5,2,1
 4102,Uraninite,-O-U-,-O-U-,1772,5.0,6.0,0,"6.5 - 10.95, Average = 8.72",4,D,L,05,5,1,1,1
 4105,Uranocircite,-Ba-O-P-H-U-,-Ba-O-P-H-U-,1877,2.0,2.5,0,3.53,8,E,B,05,40,2a,3,1
@@ -3408,14 +3393,12 @@ id,name,elements,sigelements,yeardiscovery,hmin,hmax,hardtype,specificgravity,st
 4394,Zenzénite,-Fe-Mn-Pb-O-,-Fe-Mn-Pb-O-,1990,5.5,6.0,0,,4,C,C,55,7,5,4,1
 4396,Zeophyllite,-Ca-Si-O-F-H-,-Ca-Si-O-F-H-,1902,3.0,3.0,0,2.8,9,E,E,70,73,1,4,1
 4397,Zeunerite,-As-Cu-O-H-U-,-As-Cu-O-H-U-,1872,2.5,2.5,0,3.47,8,E,B,05,40,2a,14,1
-4398,Zhanghengite,-Cu-Zn-,-Cu-Zn-,1985,5.0,5.0,0,"8.3
- Calculated",1,A,B,10a,1,1,6,2
+4398,Zhanghengite,-Cu-Zn-,-Cu-Zn-,1985,5.0,5.0,0,8.3 Calculated,1,A,B,10a,1,1,6,2
 4399,Zharchikhite,-Al-O-F-H-,-Al-O-F-H-,1986,4.5,4.5,0,2.81,3,A,C,05,10,2,8,1
 4400,Zhemchuzhnikovite,-Al-Mg-Na-O-C-H-,-Al-Mg-Na-O-C-H-,1960,2.0,2.0,0,1.69,10,A,B,35,50,1,7,2
 4402,Ziesite,-Cu-O-V-,-Cu-O-V-,1979,0.0,0.0,0,3.86,8,F,A,10,38,5,5,2
 4403,Zimbabweite,-As-Na-Nb-Pb-Ta-Ti-O-K-,-As-Na-Pb-Ta-O-,1984,5.0,5.5,0,6.20,4,J,A,40,8,7,10,1
-4405,Zinc,-Zn-,-Zn-,1651,2.0,2.0,3,"7.140
- Calculated",1,A,B,05,1,1,5,1
+4405,Zinc,-Zn-,-Zn-,1651,2.0,2.0,3,7.140 Calculated,1,A,B,05,1,1,5,1
 4406,Zincmelanterite,-Cu-Fe-Zn-O-S-H-,-Zn-O-S-H-,1920,2.0,2.5,0,2.02,7,C,B,35,29,6,10,3
 4408,Zinczippeite,-Zn-O-S-H-U-,-Zn-O-S-H-U-,1976,2.0,2.0,0,,7,E,C,05,31,10,4,5
 4409,Zincaluminite,-Al-Zn-O-S-H-,-Al-Zn-O-S-H-,1881,2.5,3.0,0,2.26,7,D,D,35,31,2,3,1
