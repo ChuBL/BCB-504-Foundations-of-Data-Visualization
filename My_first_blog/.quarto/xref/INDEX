@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "51f505c5"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "2dac4031"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "2742a690"
+  },
+  "about.qmd": {
+    "about.html": "757a559a"
+  },
+  "posts/assignment-2-old-ver/index.qmd": {
+    "index.html": "11619143"
+  },
+  "posts/Poor-Assignment-2-in-plain-text/Assignment#2.qmd": {
+    "Assignment#2.html": "1d5ebbd7"
+  },
+  "posts/assignment-2-ver1/index.qmd": {
+    "index.html": "c12aa6a2"
+  },
+  "posts/assignment-2-ver2/index.qmd": {
+    "index.html": "362e5179"
+  }
+}
